@@ -1,5 +1,3 @@
-Got it 👍 You’re on **Linux (bash)**, so the Windows-style path `venv\Scripts\activate` won’t work.
-
 On Linux/macOS, Python virtual environments are activated with:
 
 ```bash
